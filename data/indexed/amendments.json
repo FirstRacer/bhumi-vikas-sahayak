@@ -1,0 +1,57 @@
+[
+  {
+    "ruleNumber": "Rule 42",
+    "topic": "Development Norms for Medium and High-Rise Buildings (Table 4 & 5)",
+    "notificationNo": "No. 74 / UDH-3/0002/18-5/2024",
+    "gazetteDate": "06-03-2025",
+    "pageRef": "M.P. Rajpatra (Asadharan) No. 74, pp. 147-148(5); PDF Page 59",
+    "summary": "Column no. 6 and Note (1) of Table 4 in sub-rule (1) deleted; high rise setbacks and height criteria rationalized.",
+    "oldProvision": "Table 4 Column 6 imposed rigid ground coverage restriction and mandatory 12.0m front MOS for specific tiers.",
+    "newProvision": "Ground coverage limits in Table 4 Column 6 deleted by MP Rajpatra dated 06-03-2025, aligning permissible envelope with FAR and front MOS.",
+    "status": "verified"
+  },
+  {
+    "ruleNumber": "Rule 21",
+    "topic": "Permission & Application Fees for High-Rise and Large Layouts",
+    "notificationNo": "MP Rajpatra Amendment Notification 2024-25",
+    "gazetteDate": "06-03-2025",
+    "pageRef": "M.P. Rajpatra No. 72 & 73, pp. 143-146; PDF Page 35-36",
+    "summary": "Application fee fixed at Rs. 5000/ha for development and Rs. 1.00/sq.m for built-up building permission with online deemed approval timelines.",
+    "oldProvision": "Offline submission and physical treasury receipts required under sub-rule (1) & (2).",
+    "newProvision": "Online portal integration mandated; instant deemed sanction receipt mechanism enabled with Appendix A-2(2) affidavit.",
+    "status": "verified"
+  },
+  {
+    "ruleNumber": "Rule 87",
+    "topic": "Fire Protection Requirements & National Building Code (NBC) Part IV",
+    "notificationNo": "F-3-30/2020/18-5",
+    "gazetteDate": "04-09-2020 (Published 18-09-2020)",
+    "pageRef": "M.P. Rajpatra Part 4(Ga), pp. 1010-1017; PDF Page 97",
+    "summary": "Sub-rule (4) inserted: Strict fire safety clearances from Fire Authority made binding for all high-rise buildings and assembly occupancy.",
+    "oldProvision": "General compliance with municipal fire staff guidelines.",
+    "newProvision": "Mandatory designated State Fire Authority clearance and strict adherence to NBC 2016 Part IV prior to sanction.",
+    "status": "verified"
+  },
+  {
+    "ruleNumber": "Rule 14 & Rule 23",
+    "topic": "Automated Online Building Permission & Instant Sanctions",
+    "notificationNo": "F-3-75-2021-XVIII-5",
+    "gazetteDate": "18-11-2021",
+    "pageRef": "M.P. Rajpatra, PDF Page 28, 38",
+    "summary": "Fast-track / deemed building approval introduced for low-risk residential plots up to 300 sq.m.",
+    "oldProvision": "Standard 30-day manual physical inspection before any commencement permit could be issued.",
+    "newProvision": "Architect/Engineer self-certification with instant online permit generation under prescribed checklist.",
+    "status": "verified"
+  },
+  {
+    "ruleNumber": "Rule 61 (Table 8)",
+    "topic": "FAR Incentives for Land Surrender and Slum Redevelopment",
+    "notificationNo": "MP Gazette Amendment to Rule 61",
+    "gazetteDate": "Gazette Update up to March 2025",
+    "pageRef": "PDF Page 84 (Rule 61 Notes 1-4)",
+    "summary": "Allows additional FAR equal to twice the land area surrendered for public roads/widening; additional 0.50 FAR for in-situ slum redevelopment.",
+    "oldProvision": "Only standard monetary compensation was given for road surrender.",
+    "newProvision": "Transferable / added FAR permitted in lieu of compensation directly on remainder plot.",
+    "status": "verified"
+  }
+]
