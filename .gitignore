@@ -1,0 +1,32 @@
+# Production Environment Secrets & Configuration
+.env
+.env.local
+.env.*.local
+*.env
+server/.env
+client/.env
+client/.env.local
+
+# Node modules & build artifacts
+node_modules/
+client/node_modules/
+server/node_modules/
+client/dist/
+server/dist/
+dist/
+
+# Logs & debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# User data storage (generated dynamically by server)
+data/users.json

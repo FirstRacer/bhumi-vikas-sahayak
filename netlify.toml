@@ -1,0 +1,11 @@
+# Netlify configuration for Bhumi Vikas Sahayak Frontend
+[build]
+  base = "client"
+  publish = "dist"
+  command = "npm run build"
+
+# Single-Page Application (SPA) routing redirect
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
